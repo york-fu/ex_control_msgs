@@ -1,6 +1,10 @@
 # ex_control_msgs
 
-ex_control_msgs contains base messages, services useful for controlling robots. It provides representations for joint and cartesian trajectories and robots state.
+ex_control_msgs contains base messages, services useful for controlling robots.
+
+msg provides representations for joint and cartesian trajectories and robots state.
+
+srv provides general scalar and vector types.
 
 ## Message Definitions
 
