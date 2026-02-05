@@ -1,6 +1,6 @@
-# controller_msgs
+# ex_control_msgs
 
-controller_msgs contains base messages, services useful for controlling robots. It provides representations for joint and cartesian trajectories and robots state.
+ex_control_msgs contains base messages, services useful for controlling robots. It provides representations for joint and cartesian trajectories and robots state.
 
 ## Message Definitions
 
