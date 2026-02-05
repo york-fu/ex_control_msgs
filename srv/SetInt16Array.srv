@@ -1,0 +1,6 @@
+string name
+int16[] data
+---
+bool success
+string message
+

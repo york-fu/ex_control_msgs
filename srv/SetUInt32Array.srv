@@ -1,0 +1,6 @@
+string name
+uint32[] data
+---
+bool success
+string message
+
